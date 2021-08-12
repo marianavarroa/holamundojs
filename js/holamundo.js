@@ -32,5 +32,5 @@ document.write(' <br> año: ' + anio);
 anio = 2022;
 document.write(' <br> año: ' + anio);
 
-//hacer tarea del campus 
+//hacer tarea del campus ver en panel trello
 
